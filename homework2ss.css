@@ -2,7 +2,7 @@ body {
     background-color: rgb(185, 192, 192);
 }
 nav {
-    background-color: gray;
+    background-color: rgb(27, 77, 143);
     color: white;
     margin: 0 auto;
     font-family: 'Playfair Display', serif;
@@ -13,6 +13,11 @@ nav {
 .nav-link {
     color: white;
     float: center;
+}
+
+.nav:hover {
+    color: white;
+    text-decoration: underline;
 }
 
 .navbar-brand {
@@ -46,8 +51,8 @@ form {
     margin-top: 15px;
 }
 
-#emailHelp {
-    margin-top: 15px;
+.form-control {
+    margin-bottom: 0;
 }
 
 .jumbotron {
@@ -64,8 +69,18 @@ form {
 
 .card-img-2 {
     height: 600px;
+    margin-top: 5px;
 }
 
 .card-img-4 {
-    padding-top: 10px;
+    padding-top: 15px;
+    
+}
+
+.card-img-3 {
+    height: 550px;
+}
+
+.msg {
+    margin-top: 20px;
 }
