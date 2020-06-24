@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(185, 192, 192);
+}
+nav {
+    background-color: gray;
+    color: white;
+    margin: 0 auto;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+.nav-link {
+    color: white;
+    float: center;
+}
+
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+}
+
+.align-self-start {
+    margin:5px 20px 10px 20px;
+}
+
+.media {
+    margin-top: 20px;
+}
+
+.mt-0 {
+    color: rgb(33, 87, 87)
+}
+
+.blockquote {
+    margin-right: 20px;
+}
+
+.form-text {
+    color: rgb ()
+}
+
+
+form {
+    width: 40%;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+#emailHelp {
+    margin-top: 15px;
+}
+
+.jumbotron {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.row {
+    margin-top: 10px;
+}
+
+.card-img-1 {
+    height: 600px;
+}
+
+.card-img-2 {
+    height: 600px;
+}
+
+.card-img-4 {
+    padding-top: 10px;
+}
