@@ -2,6 +2,7 @@ body {
     background-color: rgb(185, 192, 192);
     
 }
+
 nav {
     background-color: rgb(27, 77, 143);
     color: white;
@@ -58,6 +59,7 @@ form {
 
 .jumbotron {
     font-family: 'Libre Baskerville', serif;
+    
 }
 
 .row {
@@ -84,4 +86,8 @@ form {
 
 .msg {
     margin-top: 20px;
+}
+
+.btn {
+    margin-bottom: 60px;
 }
